@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
-<rect width="900" height="560" fill="#161915"/>
-<g transform="translate(120 105)" fill="none" stroke="#e1ddd3" stroke-width="18" stroke-linejoin="round">
-<path d="M80 30 h170 l50 80 -55 185 H85 L30 110Z"/>
-<path d="M390 45 h160 l55 55 -50 205 H385 l-40-205Z"/>
-<circle cx="175" cy="330" r="70"/><circle cx="500" cy="340" r="55"/>
-</g>
-<text x="55" y="70" fill="#d6a329" font-size="24" font-family="Arial" font-weight="700" letter-spacing="5">GEAR WE ACTUALLY USE</text>
-</svg>
