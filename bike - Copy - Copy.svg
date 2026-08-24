@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#31372d"/><stop offset="1" stop-color="#131611"/></linearGradient></defs>
+<rect width="900" height="560" fill="url(#g)"/>
+<g transform="translate(90 90)">
+<circle cx="150" cy="310" r="105" fill="none" stroke="#ddd9cf" stroke-width="24"/>
+<circle cx="600" cy="310" r="105" fill="none" stroke="#ddd9cf" stroke-width="24"/>
+<path d="M150 310 L285 145 L435 310 L600 310 M285 145 L490 165 L600 310 M285 145 L230 310 M395 160 L440 92 L525 92" fill="none" stroke="#ddd9cf" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M420 165 L462 245 L330 250" fill="#d6a329"/>
+<path d="M360 145 L330 80 L385 55 L470 135" fill="#d6a329"/>
+<path d="M475 105 L555 85" stroke="#ddd9cf" stroke-width="20" stroke-linecap="round"/>
+</g>
+<text x="55" y="70" fill="#d6a329" font-size="24" font-family="Arial" font-weight="700" letter-spacing="5">BIKES IN THE PACK</text>
+</svg>
